@@ -22,16 +22,21 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Create Agents and Clients 
+- Provided Agents and Clients with Permissions and Roles
+- Sumbit a Mock Ticket 
+- Explore differences in Acess
+- Create SLAs and Explore how to solve a ticket
 
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  I created a Client and Agent Tab so I could setup a communnication path between them:
+
+<img width="468" alt="Image" src="https://github.com/user-attachments/assets/e1d644c2-11db-47fd-b595-2838ea452a13" />
+
+- Note the Client create the ticket as the Agent can choose to work on the ticket or forward the ticket to the correct department for assistance.
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
