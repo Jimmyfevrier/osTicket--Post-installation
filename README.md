@@ -55,6 +55,15 @@ I granted certain department Access to view certain tickets. In doing so allowed
 <img width="468" alt="Image" src="https://github.com/user-attachments/assets/ad50d939-8b27-4aae-b080-68a07f3e35e5" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I went ahead and created SLAs settings for the tickets resolve time. As I know SLA are curcial in ensuring that all clients are getting their issues prioritized and all agreement are being meant within the SLA guidelines. 
 </p>
 <br />
+
+<p> <img width="468" alt="Image" src="https://github.com/user-attachments/assets/ff282f33-787d-4922-9c07-0201470ebedb" /> 
+</p>
+<br />
+<p>
+  In wanting to make sure that I could get a basic practice in the workfeild I created mock tickets. I assigned them in importance and within departments to test out which Agents would have access to certian tickets and which agent wouldn't be able to see certain tickets. Also went over reassigning tickets to ensure that will be address by the best team involved. 
+</p>
+<br \>
+<p> </p>
