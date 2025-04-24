@@ -47,12 +47,12 @@ From the Admin Control Panel, I Added my Agents and create departments and Roles
 <img width="468" alt="Image" src="https://github.com/user-attachments/assets/d8243f0a-386d-4b19-983f-c2d73dfc2890" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I granted certain department Access to view certain tickets. In doing so allowed me to assign my made up Agents to the desired department, granting individuals Access to tickets that fit that particular departments.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="468" alt="Image" src="https://github.com/user-attachments/assets/ad50d939-8b27-4aae-b080-68a07f3e35e5" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
