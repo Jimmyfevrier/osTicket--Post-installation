@@ -24,7 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Create Agents and Clients 
 - Provided Agents and Clients with Permissions and Roles
-- Explore differences in Acess
+- Explore differences in Access
 - Create SLAs and Exploring how to solve a ticket
 
 <h2>Configuration Steps</h2>
@@ -35,7 +35,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <img width="468" alt="Image" src="https://github.com/user-attachments/assets/e1d644c2-11db-47fd-b595-2838ea452a13" />
 
-- Note the Client create the ticket as the Agent can choose to work on the ticket or forward the ticket to the correct department for assistance.
+Note: the Client create the ticket as the Agent can choose to work on the ticket or forward the ticket to the correct department for assistance.
 
 </p>
 <p>
