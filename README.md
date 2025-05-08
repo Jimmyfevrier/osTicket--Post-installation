@@ -48,7 +48,7 @@ From the Admin Control Panel, I Added my Agents and create departments and Roles
 <img width="468" alt="Image" src="https://github.com/user-attachments/assets/d8243f0a-386d-4b19-983f-c2d73dfc2890" />
 </p>
 <p>
-  <h3> Explore differences in Acess: </h3>
+  <h3> Explore differences in Access: </h3>
 I granted certain department Access to view certain tickets. In doing so allowed me to assign my made up Agents to the desired department, granting individuals Access to tickets that fit that particular departments.
 </p>
 <br />
